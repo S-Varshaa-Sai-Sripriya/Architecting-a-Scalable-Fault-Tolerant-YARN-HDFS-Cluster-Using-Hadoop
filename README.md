@@ -7,6 +7,7 @@ NOTE: This is the guide for Windows system and thus MobaXterm must be installed.
 ## Creating a cluster on Cloudlab
 
   Step 1: Create an account on Cloudlab and sign-up to either an existing project or start a new project.
+  
   (Note: For my university, the existing project root is AMS560-SBU --> submit request --> sign up)
 
   Step 2: In Experiments --> Start Experiment 
@@ -14,6 +15,7 @@ NOTE: This is the guide for Windows system and thus MobaXterm must be installed.
             2.1. Select a profile:
 
                 * Choose OpenStack
+
 
 
 
