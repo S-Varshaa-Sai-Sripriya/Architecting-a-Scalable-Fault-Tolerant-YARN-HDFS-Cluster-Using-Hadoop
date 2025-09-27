@@ -15,6 +15,10 @@ NOTE: This is the guide for Windows system and thus MobaXterm must be installed.
             2.1. Select a profile:
 
                 * Choose OpenStack
+                * Choose Pike/Zed & use 2 nodes
+
+            
+
 
 
 
